@@ -1,5 +1,5 @@
 import React from "react";
-import tasklist from "./tasklist.css";
+import "./tasklist.css";
 
 export default function TaskList({ title }) {
   return (
