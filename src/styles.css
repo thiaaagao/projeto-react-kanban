@@ -55,5 +55,5 @@ img {
   padding: 8px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 8px;
+  grid-gap: 6px;
 }

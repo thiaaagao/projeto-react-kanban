@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"; // função useState (hook)
 import "./tasklist.css";
 import PropTypes from "prop-types";
 

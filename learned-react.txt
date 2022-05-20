@@ -1,0 +1,3 @@
+useState = Hook do react
+
+Termos que usam "use" são hooks.
