@@ -50,10 +50,10 @@ img {
 
 .App .container {
   width: 100%;
-  max-width: 800px;
-  margin: auto;
-  padding: 8px;
-  display: grid;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 15px 10px;
+  display: grid; 
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 6px;
 }

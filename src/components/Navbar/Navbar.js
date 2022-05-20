@@ -4,7 +4,7 @@ import "./navbar.css";
 export default function Navbar() {
   return (
     <nav className="navbar">
-      <div> React - To do - Kanban </div>
+      <div> ReactJS - To do List - Kanban </div>
     </nav>
   );
 }
